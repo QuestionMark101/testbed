@@ -1,0 +1,56 @@
+TitaniumIngot:
+  Enabled: true
+  Shapeless: false
+  Item: IRON_INGOT
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: TITANIUM_INGOT
+  Converter: none
+  Permission: crecipe.recipe.titanium
+  Name: '&7&lTitanium Ingot'
+  Lore:
+  - '&b"&lTitanium&b, the strongest of metals, is forged from'
+  - '&bthe heart of the earth, where iron meets the magic'
+  - '&bof the Nether. The Nether Quartz, imbued with the'
+  - '&benergy of the realm, combines with iron under intense'
+  - '&bheat, while Blaze Powder adds a spark of volcanic'
+  - '&bpower. This process creates a metal more resilient'
+  - '&b&bthan any found naturally on the surface. Often used'
+  - '&b&bby the Titans in their armor, it is a material that'
+  - '&bsurvives in both the void of space and the crushing'
+  - '&bdepths of forgotten worlds."'
+  - ' '
+  - '&d&lMaterial'
+  - '&d&k|&dMythical&k|'
+  Effects:
+  - POISON:0:0
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:1
+  ItemCrafting:
+  - EBE
+  - BCB
+  - EBE
+  Ingredients:
+    E:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+    C:
+      Material: BLAZE_POWDER
+      Identifier: none
+      Amount: 1
+    B:
+      Material: QUARTZ
+      Identifer: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

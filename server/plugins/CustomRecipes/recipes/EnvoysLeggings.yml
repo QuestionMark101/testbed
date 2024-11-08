@@ -1,0 +1,48 @@
+EnvoysLeggings:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_LEGGINGS
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: ENVOYS_LEGGINGS
+  Converter: none
+  Permission: crecipe.recipe.envoysleggings
+  Name: '&r&7Envoys Leggings'
+  Lore:
+  - '&b"Forged in the heart of a forgotten laboratory,'
+  - '&bthis tank holds the purified essence of life itself.'
+  - '&bOnce wielded by explorers who sought to survive in'
+  - '&bhostile, airless worlds, the Oxygen Tank is more than'
+  - '&bjust a canister of air. Its enchanted alloys preserve'
+  - '&band purify oxygen indefinitely, ensuring its bearer'
+  - '&bcan breathe even in the depths of the unknown."'
+  - ' '
+  - '&fLeggings - &dEnvoys Exosuit'
+  - '&bRare'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:7
+  - PROTECTION:9
+  - DEPTH_STRIDER:5
+  ItemCrafting:
+  - EEE
+  - EXE
+  - EXE
+  Ingredients:
+    E:
+      Material: IRON_BLOCK
+      Identifier: none
+      Amount: 1
+      Name: '&r&7Enchanted Iron Block'
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

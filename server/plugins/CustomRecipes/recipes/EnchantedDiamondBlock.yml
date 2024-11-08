@@ -14,9 +14,13 @@ EnchantedDiamondBlock:
   Permission: crecipe.recipe.enchanteddiamondblock
   Name: '&r&bEnchanted Diamond Block'
   Lore:
-  - '&eOoh! Shiny!'
-  - ''
-  - ''
+  - '&b"Forged in the depths of the ancient mines,'
+  - '&bthis diamond block pulses with an energy older'
+  - '&bthan the world itself. It is said to have absorbed'
+  - '&bthe souls of fallen guardians, giving it a faint,'
+  - '&bominous glow."'
+  - ' '
+  - ' '
   - '&b&lRare'
   Effects:
   - POISON:0:2

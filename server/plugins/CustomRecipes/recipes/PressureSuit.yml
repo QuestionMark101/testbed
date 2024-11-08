@@ -1,0 +1,48 @@
+PressureSuit:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_CHESTPLATE
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: OXYGEN_TANK
+  Converter: none
+  Permission: crecipe.recipe.pressuresuit
+  Name: '&r&7Pressure Suit'
+  Lore:
+  - '&b"Designed for those who journey beyond the reach'
+  - '&bof breathable air, this chestplate maintains a'
+  - '&bconstant atmospheric pressure around its wearer.'
+  - '&bCrafted with lightweight yet resilient materials,'
+  - '&bit grants unparalleled protection against extreme'
+  - '&benvironments, making it a staple of deep-space'
+  - '&bexplorers and underwater adventurers alike."'
+  - ' '
+  - '&fChestplate - &dEnvoys Exosuit'
+  - '&bRare'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:7
+  - PROTECTION:10
+  - DEPTH_STRIDER:5
+  ItemCrafting:
+  - EXE
+  - EEE
+  - EEE
+  Ingredients:
+    E:
+      Material: IRON_BLOCK
+      Identifier: none
+      Amount: 1
+      Name: '&r&7Enchanted Iron Block'
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

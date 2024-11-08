@@ -1,0 +1,55 @@
+TitaniumPickaxe:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_PICKAXE
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: TITANIUM_PICKAXE
+  Converter: none
+  Permission: crecipe.recipe.titaniumpickaxe
+  Name: '&r&7Titanium Pickaxe'
+  Lore:
+  - '&9"Designed for those who brave the roughest paths,'
+  - '&9"Crafted from the rarest material known to the realm,'
+  - '&9the Titanium Pickaxe is a masterpiece of engineering'
+  - '&9and alchemy. Titanium, a metal forged in the deepest'
+  - '&9veins of the world and refined through mystical processes,'
+  - '&9imbues this pickaxe with unmatched strength. It is said'
+  - '&9that the first Titanium Pickaxe was forged by a'
+  - '&9long-forgotten civilization, who discovered the power to'
+  - '&9manipulate the forces of both the earth and the stars.'
+  - '&9With this tool, miners can shatter even the toughest of'
+  - '&9blocks and dig through realms where others dare not tread."'
+  - ' '
+  - '&fPickaxe - &5Titanium'
+  - '&5Epic'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:5
+  - EFFICIENCY:7
+  ItemCrafting:
+  - EEE
+  - XCX
+  - XCX
+  Ingredients:
+    E:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+      Name: '&7&lTitanium Ingot'
+    C:
+      Material: STICK
+      Identifider: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

@@ -1,15 +1,15 @@
 OxygenTank:
   Enabled: true
   Shapeless: false
-  Item: GLASS
+  Item: DIAMOND_HELMET
   Item-Damage: none
   Amount: 1
   Placeable: false
   Ignore-Data: false
   Ignore-Model-Data: false
   Custom-Tagged: true
-  Durability: '1'
-  Identifier: OXYGEN_TANK
+  Durability: '0'
+  Identifier: PRESSURE_SUIT
   Converter: none
   Permission: crecipe.recipe.oxygentank
   Name: '&r&7Oxygen Tank'
@@ -22,23 +22,25 @@ OxygenTank:
   - '&band purify oxygen indefinitely, ensuring its bearer'
   - '&bcan breathe even in the depths of the unknown."'
   - ' '
-  - ' '
-  - '&d&k|&dMythical&k|'
+  - '&fHelmet - &dEnvoys Exosuit'
+  - '&bRare'
   Effects:
   - POISON:0:2
   Hide-Enchants: false
   Enchantments:
-  - DURABILITY:100
-  - PROTECTION:10
+  - DURABILITY:7
+  - PROTECTION:7
+  - DEPTH_STRIDER:3
   ItemCrafting:
   - EEE
-  - EEE
-  - EEE
+  - EXE
+  - XXX
   Ingredients:
     E:
-      Material: GLASS
+      Material: IRON_BLOCK
       Identifier: none
       Amount: 1
+      Name: '&r&7Enchanted Iron Block'
   Custom-Tags: []
   Item-Flags: []
   Attribute: []

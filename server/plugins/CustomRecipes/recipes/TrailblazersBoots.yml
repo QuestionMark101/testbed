@@ -1,0 +1,48 @@
+TrailblazersBoots:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_BOOTS
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: TRAILBLAZERS_BOOTS
+  Converter: none
+  Permission: crecipe.recipe.trailblazersboots
+  Name: '&r&7Trailblazers Boots'
+  Lore:
+  - '&b"Designed for those who brave the roughest paths,'
+  - '&bthese boots grip the ground with unyielding force.'
+  - '&bEquipped with advanced shock absorption and thermal'
+  - '&bprotection, they allow explorers to walk steadily'
+  - '&bacross ice, lava, and beyond, undeterred by the'
+  - '&bharshness of any terrain."'
+  - ' '
+  - '&fBoots - &dEnvoys Exosuit'
+  - '&bRare'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:7
+  - PROTECTION:6
+  - DEPTH_STRIDER:10
+  - FEATHER_FALLING:10
+  ItemCrafting:
+  - XXX
+  - EXE
+  - EXE
+  Ingredients:
+    E:
+      Material: IRON_BLOCK
+      Identifier: none
+      Amount: 1
+      Name: '&r&7Enchanted Iron Block'
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

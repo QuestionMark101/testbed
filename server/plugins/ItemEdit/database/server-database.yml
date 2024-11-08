@@ -1,0 +1,170 @@
+enchantedironblock:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Enchanted Iron Block
+      lore:
+      - §7Reinforced and purified iron,
+      - §7giving it strength and durability
+      - §7needed for high-pressure containment.
+      - ' '
+      - ' '
+      - §aUncommon
+      enchants:
+        DURABILITY: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQwirn7OHo5+Ia4u8Z5B/n7xTj7+zt4MAPv0fCAzAAAA
+titaniumingot:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §7§lTitanium Ingot
+      lore:
+      - §b"§lTitanium§b, the strongest of metals, is forged from
+      - §bthe heart of the earth, where iron meets the magic
+      - §bof the Nether. The Nether Quartz, imbued with the
+      - §benergy of the realm, combines with iron under intense
+      - §bheat, while Blaze Powder adds a spark of volcanic
+      - §bpower. This process creates a metal more resilient
+      - §b§bthan any found naturally on the surface. Often used
+      - §b§bby the Titans in their armor, it is a material that
+      - §bsurvives in both the void of space and the crushing
+      - §bdepths of forgotten worlds."
+      - ' '
+      - §d§lMaterial
+      - §d§k|§dMythical§k|
+      enchants:
+        DURABILITY: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQx8IZ4hjn6eoUBBP3f/EAYAEluyNy0AAAA=
+titaniumpickaxe:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Titanium Pickaxe
+      lore:
+      - §9"Designed for those who brave the roughest paths,
+      - §9"Crafted from the rarest material known to the realm,
+      - §9the Titanium Pickaxe is a masterpiece of engineering
+      - §9and alchemy. Titanium, a metal forged in the deepest
+      - §9veins of the world and refined through mystical processes,
+      - §9imbues this pickaxe with unmatched strength. It is said
+      - §9that the first Titanium Pickaxe was forged by a
+      - §9long-forgotten civilization, who discovered the power to
+      - §9manipulate the forces of both the earth and the stars.
+      - §9With this tool, miners can shatter even the toughest of
+      - §9blocks and dig through realms where others dare not tread."
+      - ' '
+      - §fPickaxe - §5Titanium
+      - §5Epic
+      enchants:
+        DIG_SPEED: 7
+        DURABILITY: 5
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQwCIZ4hjn6eob7xAZ7O3o4RrgwAzgA+si8AAAA=
+oxygentank:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Oxygen Tank
+      lore:
+      - §b"Forged in the heart of a forgotten laboratory,
+      - §bthis tank holds the purified essence of life itself.
+      - §bOnce wielded by explorers who sought to survive in
+      - §bhostile, airless worlds, the Oxygen Tank is more than
+      - §bjust a canister of air. Its enchanted alloys preserve
+      - §band purify oxygen indefinitely, ensuring its bearer
+      - §bcan breathe even in the depths of the unknown."
+      - ' '
+      - §fHelmet - §dEnvoys Exosuit
+      - §d§k|§dMythical§k|
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 7
+        DEPTH_STRIDER: 3
+        DURABILITY: 7
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQy8AUGuwcGhQa7xwaGeIQwAzGJanCwAAAA=
+pressuresuit:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Pressure Suit
+      lore:
+      - §b"Designed for those who journey beyond the reach
+      - §bof breathable air, this chestplate maintains a
+      - §bconstant atmospheric pressure around its wearer.
+      - §bCrafted with lightweight yet resilient materials,
+      - §bit grants unparalleled protection against extreme
+      - §benvironments, making it a staple of deep-space
+      - §bexplorers and underwater adventurers alike."
+      - ' '
+      - §fChestplate - §dEnvoys Exosuit
+      - §d§k|§dMythical§k|
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        DEPTH_STRIDER: 5
+        DURABILITY: 7
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQzc/hGR7q5+8SGOft4MABaaBwMqAAAA
+envoysleggings:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Envoys Leggings
+      lore:
+      - §b"Forged in the heart of a forgotten laboratory,
+      - §bthis tank holds the purified essence of life itself.
+      - §bOnce wielded by explorers who sought to survive in
+      - §bhostile, airless worlds, the Oxygen Tank is more than
+      - §bjust a canister of air. Its enchanted alloys preserve
+      - §band purify oxygen indefinitely, ensuring its bearer
+      - §bcan breathe even in the depths of the unknown."
+      - ' '
+      - §fLeggings - §dEnvoys Exosuit
+      - §d§k|§dMythical§k|
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 9
+        DEPTH_STRIDER: 5
+        DURABILITY: 7
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQz8rn5h/pHB8T6u7u6efu7BDACvXl1ILgAAAA==
+trailblazersboots:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§7Trailblazers Boots
+      lore:
+      - §b"Designed for those who brave the roughest paths,
+      - §bthese boots grip the ground with unyielding force.
+      - §bEquipped with advanced shock absorption and thermal
+      - §bprotection, they allow explorers to walk steadily
+      - §bacross ice, lava, and beyond, undeterred by the
+      - §bharshness of any terrain."
+      - ' '
+      - §fBoots - §dEnvoys Exosuit
+      - §d§k|§dMythical§k|
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+        DEPTH_STRIDER: 10
+        DURABILITY: 7
+        PROTECTION_FALL: 10
+      internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQxCIUGOnj5OPo5RrkHB8U7+/iHBDACdYHX8MQAAAA==
