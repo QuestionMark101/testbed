@@ -1,0 +1,46 @@
+OxygenTank:
+  Enabled: true
+  Shapeless: false
+  Item: GLASS
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '1'
+  Identifier: OXYGEN_TANK
+  Converter: none
+  Permission: crecipe.recipe.oxygentank
+  Name: '&r&7Oxygen Tank'
+  Lore:
+  - '&b"Forged in the heart of a forgotten laboratory,'
+  - '&bthis tank holds the purified essence of life itself.'
+  - '&bOnce wielded by explorers who sought to survive in'
+  - '&bhostile, airless worlds, the Oxygen Tank is more than'
+  - '&bjust a canister of air. Its enchanted alloys preserve'
+  - '&band purify oxygen indefinitely, ensuring its bearer'
+  - '&bcan breathe even in the depths of the unknown."'
+  - ' '
+  - ' '
+  - '&d&k|&dMythical&k|'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:100
+  - PROTECTION:10
+  ItemCrafting:
+  - EEE
+  - EEE
+  - EEE
+  Ingredients:
+    E:
+      Material: GLASS
+      Identifier: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

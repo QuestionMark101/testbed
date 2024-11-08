@@ -1,0 +1,42 @@
+CursedPick:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_PICKAXE
+  Item-Damage: none
+  Amount: 1
+  Placeable: true
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '100'
+  Identifier: CURSED_PICKAXE
+  Converter: none
+  Permission: crecipe.recipe.cursedpick
+  Name: '&4&lCursed Pick'
+  Lore:
+  - '&c&lThe Cursed Pickaxe'
+  Effects:
+  - POISON:20:2
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:300
+  ItemCrafting:
+  - EEE
+  - XIX
+  - XIX
+  Ingredients:
+    E:
+      Material: EMERALD
+      Identifier: none
+      Amount: 1
+      Name: Emerald Essence
+    I:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+      Name: Iron Essence
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

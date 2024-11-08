@@ -1,0 +1,39 @@
+EnchantedDiamondBlock:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_BLOCK
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '1'
+  Identifier: ENCHANTED_DIAMOND_BLOCK
+  Converter: none
+  Permission: crecipe.recipe.enchanteddiamondblock
+  Name: '&r&bEnchanted Diamond Block'
+  Lore:
+  - '&eOoh! Shiny!'
+  - ''
+  - ''
+  - '&b&lRare'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:1
+  ItemCrafting:
+  - EEE
+  - EEE
+  - EEE
+  Ingredients:
+    E:
+      Material: DIAMOND_BLOCK
+      Identifier: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

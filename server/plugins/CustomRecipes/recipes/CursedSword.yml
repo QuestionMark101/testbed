@@ -1,0 +1,41 @@
+CursedSword:
+  Enabled: true
+  Shapeless: true
+  Item: DIAMOND_SWORD
+  Item-Damage: none
+  Amount: 1
+  Placeable: true
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Identifier: CURSED_SWORD
+  Converter: none
+  Permission: crecipe.recipe.cursedsword
+  Name: '&eCursed Sword'
+  Lore:
+  - '&fThe Cursed Sword'
+  Effects:
+  - POISON:20:2
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:300
+  ItemCrafting:
+  - DDD
+  - XPX
+  - XPX
+  Ingredients:
+    D:
+      Material: DIAMOND
+      Identifier: none
+      Amount: 1
+      Name: Diamond Shrine
+    P:
+      Material: OAK_PLANKS
+      Identifier: none
+      Amount: 1
+      Name: Wooden Board
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

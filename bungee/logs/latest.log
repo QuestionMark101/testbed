@@ -1,0 +1,9 @@
+[00:00:41] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/testbed/bungee/server-icon.png
+[00:00:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57448]: Connected via websocket
+[00:00:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57448]: Origin header is https://master101215.github.io
+[00:00:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57448]: Logged in as '_QuestionMark_'
+[00:00:42] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57448|_QuestionMark_] -> UpstreamBridge has connected
+[00:00:42] [Netty Worker IO Thread #2/INFO]: [_QuestionMark_|/[0:0:0:0:0:0:0:1%0]:57448] <-> ServerConnector [lobby] has connected
+[00:18:40] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57448|_QuestionMark_] -> UpstreamBridge has disconnected
+[00:18:40] [Netty Worker IO Thread #2/INFO]: [_QuestionMark_] disconnected with: Proxy lost connection to server.
+[00:18:40] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57448|_QuestionMark_] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -1,0 +1,41 @@
+EnchantedIronIngot:
+  Enabled: true
+  Shapeless: false
+  Item: IRON_INGOT
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '1'
+  Identifier: ENCHANTED_IRON_INGOT
+  Converter: none
+  Permission: crecipe.recipe.enchantedironingot
+  Name: '&r&7Enchanted Iron Ingot'
+  Lore:
+  - '&7Reinforced and purified iron,'
+  - '&7giving it strength and durability'
+  - '&7needed for high-pressure containment.'
+  - ' '
+  - ' '
+  - '&aUncommon'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:1
+  ItemCrafting:
+  - EEE
+  - EEE
+  - EEE
+  Ingredients:
+    E:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []
