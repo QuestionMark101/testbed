@@ -1,0 +1,50 @@
+TitaniumHelmet:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_HELMET
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: TITANIUM_HELMET
+  Converter: none
+  Permission: crecipe.recipe.titaniumhelmet
+  Name: '&r&7Titanium Helmet'
+  Lore:
+  - '&9"Forged in the heart of a forgotten laboratory,'
+  - '&9"Only those deemed worthy by the ancient powers'
+  - '&9could don the Titanium Helmet and explore realms'
+  - '&9forgotten by time. Wearing it connects one to the'
+  - '&9legacy of the Titans, guardians of knowledge and'
+  - '&9explorers of forbidden places. The wearer of this'
+  - '&9helmet becomes part of an ancient legacy, equipped'
+  - '&9with the protection of Titanium and the wisdom of'
+  - '&9those who came before, prepared to face the darkest'
+  - '&9depths and most mysterious realms."'
+  - ' '
+  - '&fHelmet - &5Titanium'
+  - '&5Epic'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:100
+  - PROTECTION:8
+  ItemCrafting:
+  - EEE
+  - EXE
+  - XXX
+  Ingredients:
+    E:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+      Name: '&7Titanium Ingot'
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

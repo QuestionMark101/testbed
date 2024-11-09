@@ -25,8 +25,8 @@ TitaniumIngot:
   - '&bsurvives in both the void of space and the crushing'
   - '&bdepths of forgotten worlds."'
   - ' '
-  - '&d&lMaterial'
-  - '&d&k|&dMythical&k|'
+  - '&5&lMaterial'
+  - '&5Epic'
   Effects:
   - POISON:0:0
   Hide-Enchants: true

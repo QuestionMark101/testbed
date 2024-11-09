@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731107089319
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731107003828
+  login: 1731107072507
+  kits:
+    notch: 1731107100708
+money: '0'
+logoutlocation:
+  world: 29027e9f-803e-4844-acc1-7ee6aaae19a1
+  world-name: SuperiorWorld
+  x: 603.5476035234955
+  y: 101.0
+  z: -1.9111725249886808
+  yaw: 270.5289306640625
+  pitch: 39.59999465942383
+last-account-name: _QuestionMark_
+lastlocation:
+  world: 29027e9f-803e-4844-acc1-7ee6aaae19a1
+  world-name: SuperiorWorld
+  x: 603.5476035234955
+  y: 101.0
+  z: -1.9111725249886806
+  yaw: 261.6789245605469
+  pitch: 39.59999465942383
