@@ -243,6 +243,33 @@ floppyscythe:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       display-name: §6§k|||§r§9Floppy§r Scythe§6§k|||
+      lore:
+      - §7Epicness III
+      - §7Haste III
+      - §7Headless III
+      - §7Thundering Blow III
+      - §aFamine IV
+      - §aSkill Swipe V
+      - §aTelepathy IV
+      - §bBlind III
+      - §bEnder Slayer V
+      - §bExecute VII
+      - §bPoison III
+      - §bTrap III
+      - §eDominate IV
+      - §eIce Aspect III
+      - §6Abiding I
+      - §6Double Strike III
+      - §6Inquisitive IV
+      - §6Kill Aura V
+      - §6Lifesteal V
+      - §6Stun III
+      - §dDemonic Lifesteal V
+      - §dMaster Inquisitive IV
+      - §dTitan Trap III
+      - §4Chain Lifesteal II
+      - §4Halloweenify V
+      - §4SoulGrind III
       enchants:
         DIG_SPEED: 10
         DAMAGE_ALL: 10
@@ -252,3 +279,4 @@ floppyscythe:
         KNOCKBACK: 10
         FIRE_ASPECT: 5
         LOOT_BONUS_MOBS: 5
+      internal: H4sIAAAAAAAA/22TXU7EMAyEA2GFxCv/ixDcg8MgN3W31qZJSByW3p6EVBVy9y3SNxrbY+dGKa1eAT/RmREcT+j4o7zIWRowMYJVSl1q9SI0vc+dLYJIRywKrdWbVODkHZn/Pjut3oVqggIjua9MiZi+q9mVVvdCNsBEbmGPgo0IfWkltTbuJK0FGnoSKPlsD6V237D0xUDGrb4PgkJHPblDgRfbop1dXeUkwVPy7rwn/qDJf91ea7WX0PUYk4UZY4tS9nskayFHOE97XxIEXjK8FZQjhNbTLlnPdeb9NjBGiwF4nJvJBhOX5+okMRmEFNDweSwORY6/ORF5kSNY60+Ijoa5WTzLfdeE0okCNi5DSJyXxcgfwWOu6Zd9d6VG1ahfc+RhTzoDAAA=

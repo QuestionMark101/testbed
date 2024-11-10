@@ -11,9 +11,6 @@ groups:
   SIMPLE:
     global-color: '&7'
     group-name: Simple
-    right-click-book-material: FIREWORK_CHARGE
-    right-click-book-damage: 0
-    firework-color: 200;200;200
     slot-increaser:
       slots: 1
     magic-dust:
@@ -21,11 +18,11 @@ groups:
       chance: 22
     item:
       type: BOOK
+      id: 0
+      rgb-color: 200;200;200
   UNIQUE:
     global-color: '&a'
     group-name: Unique
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 122;255;80
     slot-increaser:
       slots: 1
     magic-dust:
@@ -33,11 +30,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 122;255;80
   ELITE:
     global-color: '&b'
     group-name: Elite
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 20;250;255
     slot-increaser:
       slots: 1
     magic-dust:
@@ -45,11 +41,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 20;250;255
   ULTIMATE:
     global-color: '&e'
     group-name: Ultimate
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 250;255;0
     slot-increaser:
       slots: 1
     magic-dust:
@@ -57,11 +52,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 250;255;0
   LEGENDARY:
     global-color: '&6'
     group-name: Legendary
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 255;182;0
     slot-increaser:
       slots: 1
     magic-dust:
@@ -69,11 +63,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 255;182;0
   SOUL:
     global-color: '&c'
     group-name: Soul
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 255;0;0
     slot-increaser:
       slots: 1
     magic-dust:
@@ -81,11 +74,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 255;0;0
   HEROIC:
     global-color: '&d'
     group-name: Heroic
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 133;50;168
     slot-increaser:
       slots: 1
     magic-dust:
@@ -93,11 +85,10 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 133;50;168
   MASTERY:
     global-color: '&4'
     group-name: Mastery
-    right-click-book-material: FIREWORK_CHARGE
-    firework-color: 255;0;0
     slot-increaser:
       slots: 1
     magic-dust:
@@ -105,3 +96,4 @@ groups:
       chance: 22
     item:
       type: BOOK
+      rgb-color: 255;0;0
