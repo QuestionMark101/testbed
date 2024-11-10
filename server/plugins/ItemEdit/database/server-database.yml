@@ -168,3 +168,87 @@ trailblazersboots:
         DURABILITY: 7
         PROTECTION_FALL: 10
       internal: H4sIAAAAAAAA/+NiYOBgEHMODQ7x9433DHEFEi6ufiGebp6uQQxCIUGOnj5OPo5RrkHB8U7+/iHBDACdYHX8MQAAAA==
+lifedeleter:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Life Deleter
+      lore:
+      - §7Confusion III
+      - §7Decapitation III
+      - §7Epicness III
+      - §7Etheral III
+      - §7Headless III
+      - §7Insomnia VII
+      - §7Obliterate V
+      - §7Thundering Blow III
+      - §aFamine IV
+      - §aFeatherweight III
+      - §aRavenous IV
+      - §aSkill Swipe V
+      - §bBlind III
+      - §bDemonforged IV
+      - §bEnder Slayer V
+      - §bExecute VII
+      - §bGreatsword V
+      - §bNether Slayer V
+      - §bParalyze IV
+      - §bPoison III
+      - §bPummel III
+      - §bReaper IV
+      - §bShackle III
+      - §bTrap III
+      - §eAnnihilate VI
+      - §eArrow Break VI
+      - §eArsonist III
+      - §eBleed VI
+      - §eBlessed IV
+      - §eBlock III
+      - §eCleave VII
+      - §eCorrupt IV
+      - §eDisintegrate IV
+      - §eDominate IV
+      - §eEnrage III
+      - §eIce Aspect III
+      - §ePickpocket III
+      - §6Abiding I
+      - §6Barbarian IV
+      - §6Devour IV
+      - §6Disarmor VIII
+      - §6Double Strike III
+      - §6Hex IV
+      - §6Inquisitive IV
+      - §6Insanity VIII
+      - §6Inversion IV
+      - §6Lifesteal V
+      - §6Rage VI
+      - §6Silence IV
+      - §6Stun III
+      enchants:
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DAMAGE_ARTHROPODS: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 5
+        LOOT_BONUS_MOBS: 5
+      internal: H4sIAAAAAAAA/3VUy47bMAx04d206LHP7esneu3HFLTM2IRlSpVoe9Ovrxx5A5RSgFyCMcmZ4VBvm6ZtvgD+RjYjsMzI8suTmbwzE0qT4Lb5qPAzzMSYsIe2+aywEaG3GGOu1J0hBLd1AWFK+KnEhwRJ3FzoE/5YdsdEjW/dP+nuHfXEQwJftc0HBXaWuK/XdTth7LMgDeIzmkV2ta/b5qsGuccQLVww1An3LlkFcsesniKE2e21b0rUQwB7+XvUflMoo4z/z36M1sluzc+2eVJfk0GIHs2xUQ1bOmMUBJs76VmJJ7HgEG5KtBHEf5b0kdB6RyqE6JjiMV+jxNHNTJBd1nnzyzyjrWcxBcZfDXgo0xQnsjZu5DHL0rXIAQbMfX8oTMZl322KU2fdVneNeE0bIMd1T3qcHZ9dGF6iVUYyHVluXTjulj2VEmg6CL7XwjP1U9VMYJJLTpUW3ePqlsMwLcgkvsshKI38ru8+HWfK3IY0jFI/cJfOTPDIScVy7yi+tH9XPB3PdVodhPQj4PqFRrLp75E7bZME8HfeImYayWaqFRsDrMhuifWhxoWweMmgVmkswno8GcV7slsI9s7a0YAnAbntoBA7gpnskYkyUHjN2qn0Icpy7dj8A3e/txnyBQAA
+floppyscythe:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6§k|||§r§9Floppy§r Scythe§6§k|||
+      enchants:
+        DIG_SPEED: 10
+        DAMAGE_ALL: 10
+        DAMAGE_UNDEAD: 10
+        DAMAGE_ARTHROPODS: 10
+        LOOT_BONUS_BLOCKS: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 5
+        LOOT_BONUS_MOBS: 5

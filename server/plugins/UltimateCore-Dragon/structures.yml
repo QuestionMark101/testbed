@@ -1,0 +1,17 @@
+altars:
+  '0':
+    world: world_the_end
+    x: -6.0
+    y: 65.0
+    z: -2.0
+    yaw: 0.0
+    pitch: 0.0
+    inUse: false
+crystals:
+  '0':
+    world: world_the_end
+    x: 3.0
+    y: 66.0
+    z: -2.0
+    yaw: 0.0
+    pitch: 0.0
