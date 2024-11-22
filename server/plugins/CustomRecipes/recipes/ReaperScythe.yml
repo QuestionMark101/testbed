@@ -1,0 +1,78 @@
+ReaperScythe:
+  Enabled: true
+  Shapeless: false
+  Item: DIAMOND_HOE
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: REAPER_SCYTHE
+  Converter: none
+  Permission: crecipe.recipe.reaperscythe
+  Name: '&4&k|&cReaper Scythe&4&k|'
+  Lore:
+  - '&4“A blade forged from the essence of death itself,'
+  - '&4it reaps not only souls but the echoes of life'
+  - '&4that linger beyond.”'
+  - ' '
+  - '&c"Long ago, when the balance between life and death'
+  - '&cwas first forged, there was a being known as the'
+  - '&cEternal Reaper. Tasked with guiding the dead to their'
+  - '&cfinal rest, the Reaper carried a scythe imbued'
+  - '&cwith unfathomable power. It is said the weapon'
+  - '&ccould slice through the fabric of existence,'
+  - '&cseparating soul from body with a single swing. '
+  - '&cWhen the Eternal Reaper was vanquished in an ancient'
+  - '&cwar of gods, their scythe was shattered, scattering'
+  - '&cits shards across realms."'
+  - ' '
+  - '&c"In time, fragments of the scythe were discovered by mortals,'
+  - '&cwho sought to reforge the weapon for their own ends. Only one'
+  - '&csucceeded—a forgotten necromancer who bound the weapon with the'
+  - '&cessence of their own life. The result was the Reaper Scythe, a'
+  - '&ctool of unimaginable strength that carried the whispers of death'
+  - '&cwith every strike. Those who wield it do not merely fight; they'
+  - '&ccommand the power of death itself."'
+  - ' '
+  - '&4&k|&cUngodly&4&k|'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: false
+  Enchantments:
+  - DURABILITY:5
+  - EFFICIENCY:7
+  - ABIDING:1
+  - ARSONIST:3
+  - ATOMICDETONATE:9
+  - BLOCK:3
+  - BLIND:3
+  - BLEED:6
+  - CLEAVE:7
+  - CORRUPT:4
+  - DEVOUR:4
+  - DEMONICLIFESTEAL:5
+  - DEEPBLEED:6
+  - DEMONFORGED:4
+  - REAPER:4
+  ItemCrafting:
+  - XEE
+  - XCX
+  - XCX
+  Ingredients:
+    E:
+      Material: PRISMARINE_SHARD
+      Identifier: none
+      Amount: 1
+      Name: '&4&k|&cDeath Shard&4&k|'
+    C:
+      Material: STICK
+      Identifider: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1731204897746
-  login: 1731206051961
+  logout: 1732232912910
+  login: 1732232695665
 money: '10000000000000'
 last-account-name: MrFlop
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 3f83c142-4b20-4ad1-a5d1-adc1437ffe02
   world-name: world
-  x: 36.5
-  y: 64.0
-  z: 256.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 71.71097138686582
+  y: 78.64391667755818
+  z: 245.41239102732908
+  yaw: -92.63262176513672
+  pitch: 25.649993896484375

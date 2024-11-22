@@ -1,0 +1,64 @@
+DeathShard:
+  Enabled: true
+  Shapeless: false
+  Item: PRISMARINE_SHARD
+  Item-Damage: none
+  Amount: 1
+  Placeable: false
+  Ignore-Data: false
+  Ignore-Model-Data: false
+  Custom-Tagged: true
+  Durability: '0'
+  Identifier: DEATH_SHARD
+  Converter: none
+  Permission: crecipe.recipe.deathshard
+  Name: '&4&k|&cDeath Shard&4&k|'
+  Lore:
+  - '&4“A fragment of the Eternal Reaper’s shattered scythe,'
+  - '&4imbued with the raw essence of death.”'
+  - ' '
+  - '&c"When the gods waged war against the Eternal Reaper,'
+  - '&ctheir battle raged across realms, shaking the'
+  - '&cfoundations of existence. The Reaper’s weapon—a scythe'
+  - '&cforged to harvest souls and bend the veil of life—was'
+  - '&cstruck down by divine might, shattering into countless'
+  - '&cshards. These fragments, later named Death Shards,'
+  - '&cscattered across dimensions, embedding themselves into'
+  - '&cthe fabric of reality like cursed seeds waiting to sprout."'
+  - ' '
+  - '&c"Each Death Shard contains a sliver of the Reaper’s power:'
+  - '&ca concentrated essence of death, imbued with an eerie'
+  - '&cglow that seems to pulse with the rhythm of the dead.'
+  - '&cIt is said that to hold a shard is to feel the weight'
+  - '&cof countless souls, trapped between realms, their whispers'
+  - '&cechoing in the mind of the bearer. Only the bold—or the'
+  - '&cfoolish—dare to seek out the shards, for it is said that'
+  - '&cto gather them all is to risk awakening the Reapers'
+  - '&cvengeance."'
+  - ' '
+  - '&4&k|&cUngodly&4&k|'
+  Effects:
+  - POISON:0:2
+  Hide-Enchants: true
+  Enchantments:
+  - DURABILITY:1
+  - SHARPNESS:10
+  ItemCrafting:
+  - EEE
+  - XCX
+  - XCX
+  Ingredients:
+    E:
+      Material: IRON_INGOT
+      Identifier: none
+      Amount: 1
+      Name: '&7&lTitanium Ingot'
+    C:
+      Material: STICK
+      Identifider: none
+      Amount: 1
+  Custom-Tags: []
+  Item-Flags: []
+  Attribute: []
+  Custom-Model-Data: none
+  Disabled-Worlds: []

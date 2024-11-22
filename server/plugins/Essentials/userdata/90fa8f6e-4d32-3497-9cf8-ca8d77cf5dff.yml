@@ -11,16 +11,16 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1731206438671
+  lastteleport: 1732232667897
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1731206539771
-  login: 1731206370922
+  login: 1732232477079
   kits:
     notch: 1731107100708
-money: '-9800'
+money: '-5600'
 logoutlocation:
   world: 29027e9f-803e-4844-acc1-7ee6aaae19a1
   world-name: SuperiorWorld
@@ -31,10 +31,10 @@ logoutlocation:
   pitch: 15.177083969116211
 last-account-name: _QuestionMark_
 lastlocation:
-  world: 29027e9f-803e-4844-acc1-7ee6aaae19a1
-  world-name: SuperiorWorld
-  x: 605.9669359492607
-  y: 102.0
-  z: -6.735804904025921
-  yaw: -123.22115325927734
-  pitch: 50.999996185302734
+  world: d65c0aac-cba3-4f48-89b2-0550be66f436
+  world-name: world_the_end
+  x: -1.850415920265484
+  y: 63.0
+  z: -14.206341828060918
+  yaw: -166.311279296875
+  pitch: 10.452142715454102

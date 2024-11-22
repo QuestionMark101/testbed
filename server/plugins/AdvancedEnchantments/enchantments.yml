@@ -1505,6 +1505,7 @@ reaper:
   group: 'ELITE'
   applies:
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 8
@@ -1587,6 +1588,7 @@ blind:
   group: 'ELITE'
   applies:
     - ALL_SWORD
+    - ALL_HOE
   levels:
     1:
       chance: 17
@@ -1986,6 +1988,7 @@ demonforged:
   group: 'ELITE'
   applies:
     - ALL_SWORD
+    - ALL_HOE
   levels:
     1:
       cooldown: 6
@@ -2775,6 +2778,7 @@ cleave:
   group: 'ULTIMATE'
   applies:
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 4
@@ -3079,6 +3083,7 @@ corrupt:
   group: 'ULTIMATE'
   applies:
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 12
@@ -3634,6 +3639,7 @@ arsonist:
   group: 'ULTIMATE'
   applies:
     - 'ALL_SWORD'
+    - 'ALL_HOE'
   levels:
     1:
       chance: 8
@@ -4931,6 +4937,7 @@ inversion:
   group: 'LEGENDARY'
   applies:
     - ALL_SWORD
+    - ALL_HOE
   levels:
     1:
       chance: 8
@@ -5320,6 +5327,7 @@ abiding:
     - ALL_PICKAXE
     - ALL_SPADE
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       effects:
@@ -5332,6 +5340,7 @@ devour:
   group: 'LEGENDARY'
   applies:
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 25
@@ -6400,6 +6409,7 @@ atomicdetonate:
     - ALL_PICKAXE
     - ALL_SPADE
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 13
@@ -6710,6 +6720,7 @@ demoniclifesteal:
   group: 'HEROIC'
   applies:
     - ALL_SWORD
+    - ALL_HOE
   settings:
     required-enchants:
       - 'lifesteal:5'
@@ -6761,6 +6772,7 @@ deepbleed:
     removeable: false
   applies:
     - ALL_AXE
+    - ALL_HOE
   levels:
     1:
       chance: 10
